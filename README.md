@@ -25,21 +25,24 @@ O projeto adota o padrão **Cliente-Servidor** e o padrão de projeto **MVC (Mod
 Os resultados parciais obtidos demonstram o fluxo principal do sistema:
 
 **Modelagem de Entidades**: Definição clara das entidades (Clientes, Serviços, Profissionais e Agendamentos).
+
 **Estrutura de Banco de Dados**: Criação e implementação da estrutura do banco de dados relacional em **MySQL**.
+
 **Interface de Agendamento**: Protótipo web que permite a seleção de serviços.
+
 **Lógica de Negócio**: Desenvolvimento da lógica do sistema utilizando conceitos de Orientação a Objetos em **Java**.
 
 *Observação: A integração entre o Front-end (View) e o Back-end (Model/MySQL) está atualmente em fase de configuração.*
 
 ## Tecnologias Utilizadas
 
-| Componente | Versão | Finalidade |
-|---|---|---|
-| **Java JDK** | 11+ | [cite_start]Lógica do sistema e camada Controller/Model [cite: 33] |
-| **MySQL** | 8.0+ | [cite_start]Banco de dados relacional e persistência de dados [cite: 18, 33] |
-| **HTML/CSS/JS** | - | [cite_start]Desenvolvimento do Front-end (View) e interatividade [cite: 32] |
-| **Bootstrap** | - | [cite_start]Framework para design da interface (Front-end) [cite: 32] |
-| **VS Code** | Latest | [cite_start]Editor de código [cite: 33] |
-| **GitHub** | - | [cite_start]Controle de versão do código [cite: 34] |
+| Componente      | Versão | Finalidade                                           |
+|-----------------|--------|------------------------------------------------------|
+| **Java JDK**    | 11+    | Lógica do sistema e camada Controller/Model          |
+| **MySQL**       | 8.0+   | Banco de dados relacional e persistência de dados    |
+| **HTML/CSS/JS** | -      | Desenvolvimento do Front-end (View) e interatividade |
+| **Bootstrap**   | -      | Framework para design da interface (Front-end)       |
+| **VS Code**     | Latest | Editor de código                                     |
+| **GitHub**      | -      | Controle de versão do código                         |
 
 ## Estrutura do Projeto

@@ -1,4 +1,14 @@
-# Projeto-Integrado-Engenharia-de-Software
+# Projeto Integrado Engenharia de Software
+
+Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas da UNIFEOB.
+
+
+
+## Autores
+
+- Pedro Paulo Batista Alves - RA: 24001197
+
+
 
 Este projeto integrado tem como objetivo otimizar a gestão de agendamentos do salão de beleza "Neula Araújo Studio de Beleza", atualmente realizados de forma manual. A solução proposta é uma aplicação web interativa e baseada em dados.
 O protótipo atualiza a estrutura lógica do sistema em Java e implementa o banco de dados em MySQL, representando as camadas **Model** e **Controller** da arquitetura MVC.

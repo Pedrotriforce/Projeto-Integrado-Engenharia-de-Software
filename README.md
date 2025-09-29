@@ -11,9 +11,13 @@ O projeto adota o padrão **Cliente-Servidor** e o padrão de projeto **MVC (Mod
 ### Descrição dos Componentes (Camada Model)
 
 **Cliente.java**: Contém a classe modelo que representa o cliente do salão.
+
 **Servico.java**: Contém a classe modelo que define os serviços oferecidos.
+
 **Agendamento.java**: Representa o modelo de agendamento, com atributos como data, horário, profissional e cliente associado.
+
 **App.java**: Responsável pela instância e criação dos objetos e a execução dos métodos.
+
 **Protótipo Web (View)**: Interface desenvolvida com HTML, CSS, JavaScript e Bootstrap, permitindo a seleção de serviços, profissionais e horários.
 
 ## Funcionalidades Implementadas (Protótipo Parcial)

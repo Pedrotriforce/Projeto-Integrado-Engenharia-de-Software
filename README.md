@@ -46,3 +46,16 @@ Os resultados parciais obtidos demonstram o fluxo principal do sistema:
 | **GitHub**      | -      | Controle de versão do código                         |
 
 ## Estrutura do Projeto
+
+Projeto-Integrado-Engenharia-de-Software/
+├── frontend/                     # Código da interface do usuário (HTML, CSS, JS)
+│   ├── index.html                # Protótipo da página de agendamento
+│   └── css/js/img/               # Arquivos de estilo e interatividade
+├── java/                         # Código Java (Lógica do sistema - Model/Controller)
+│   ├── Cliente.java              # Modelo de Cliente
+│   ├── Servico.java              # Modelo de Serviço
+│   ├── Agendamento.java          # Modelo de Agendamento
+│   └── App.java                  # Instância e execução de métodos
+├── sql/                          # Scripts de banco de dados
+│   └── schema.sql                # Script de criação do BD MySQL
+└── README.md                     # Este arquivo

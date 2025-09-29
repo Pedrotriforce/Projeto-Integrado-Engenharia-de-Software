@@ -20,12 +20,12 @@ O projeto adota o padrão **Cliente-Servidor** e o padrão de projeto **MVC (Mod
 
 Os resultados parciais obtidos demonstram o fluxo principal do sistema:
 
-* **Modelagem de Entidades**: Definição clara das entidades (Clientes, Serviços, Profissionais e Agendamentos)[cite: 48].
-* [cite_start]**Estrutura de Banco de Dados**: Criação e implementação da estrutura do banco de dados relacional em **MySQL**[cite: 18, 49].
-* [cite_start]**Interface de Agendamento**: Protótipo web que permite a seleção de serviços[cite: 57, 58].
-* [cite_start]**Lógica de Negócio**: Desenvolvimento da lógica do sistema utilizando conceitos de Orientação a Objetos em **Java**[cite: 64].
+**Modelagem de Entidades**: Definição clara das entidades (Clientes, Serviços, Profissionais e Agendamentos).
+**Estrutura de Banco de Dados**: Criação e implementação da estrutura do banco de dados relacional em **MySQL**.
+**Interface de Agendamento**: Protótipo web que permite a seleção de serviços.
+**Lógica de Negócio**: Desenvolvimento da lógica do sistema utilizando conceitos de Orientação a Objetos em **Java**.
 
-[cite_start]*Observação: A integração entre o Front-end (View) e o Back-end (Model/MySQL) está atualmente em fase de configuração[cite: 52].*
+*Observação: A integração entre o Front-end (View) e o Back-end (Model/MySQL) está atualmente em fase de configuração.*
 
 ## Tecnologias Utilizadas
 

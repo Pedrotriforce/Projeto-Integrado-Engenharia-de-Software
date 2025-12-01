@@ -42,7 +42,7 @@ Os resultados parciais obtidos demonstram o fluxo principal do sistema:
 
 **Lógica de Negócio**: Desenvolvimento da lógica do sistema utilizando conceitos de Orientação a Objetos em **Java**.
 
-*Observação: A integração entre o Front-end (View) e o Back-end (Model/MySQL) está atualmente em fase de configuração.*
+*Observação: A integração entre o Front-end (View) e o Back-end (Model/MySQL) não foi implementado durante o projeto.*
 
 ## Tecnologias Utilizadas
 
